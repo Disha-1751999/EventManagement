@@ -1,0 +1,73 @@
+[
+    {
+      "eventName": "Community Clean-Up Drive",
+      "description": "Join us for a day of cleaning and beautifying our neighborhood. Volunteers will be provided with necessary materials.",
+      "date": "12 Jan",
+      "time": "11 AM",
+      "location": "Central Park, NYC"
+    },
+    {
+      "eventName": "Food Donation Camp",
+      "description": "Help us distribute food to those in need. We welcome donations and volunteers to assist in the distribution process.",
+      "date": "20 Feb",
+      "time": "11 AM",
+      "location": "Downtown Shelter, Chicago"
+    },
+    {
+      "eventName": "Tree Plantation Drive",
+      "description": "A green initiative to plant trees and spread environmental awareness. All age groups are welcome!",
+      "date": "5 Mar",
+      "time": "11 AM",
+      "location": "City Park, Los Angeles"
+    },
+    {
+      "eventName": "Blood Donation Camp",
+      "description": "Donate blood and save lives. A small act of kindness can make a huge difference.",
+      "date": "18 Mar",
+      "time": "11 AM",
+      "location": "Health Center, Boston"
+    },
+    {
+      "eventName": "Coding for Beginners Workshop",
+      "description": "A free workshop introducing the basics of programming to beginners.",
+      "date": "25 Mar",
+      "time": "11 AM",
+      "location": "Tech Hub, San Francisco"
+    },
+    {
+      "eventName": "Mental Health Awareness Seminar",
+      "description": "An interactive session with psychologists and mental health professionals to promote well-being.",
+      "date": "8 Apr",
+      "time": "11 AM",
+      "location": "Community Hall, Seattle"
+    },
+    {
+      "eventName": "Animal Shelter Volunteer Program",
+      "description": "Spend a day at the animal shelter helping with feeding, cleaning, and caring for rescued animals.",
+      "date": "15 Apr",
+      "time": "11 AM",
+      "location": "Rescue Shelter, Austin"
+    },
+    {
+      "eventName": "Women in Tech Conference",
+      "description": "A networking event bringing together women in the tech industry to share knowledge and experiences.",
+      "date": "22 Apr",
+      "time": "11 AM",
+      "location": "Convention Center, San Diego"
+    },
+    {
+      "eventName": "Music for a Cause Charity Concert",
+      "description": "An evening of music performances to raise funds for education initiatives.",
+      "date": "10 May",
+      "time": "11 AM",
+      "location": "City Auditorium, Miami"
+    },
+    {
+      "eventName": "Hackathon: Innovate for Change",
+      "description": "A 24-hour hackathon where developers and designers collaborate to build impactful projects.",
+      "date": "18 May",
+      "time": "11 AM",
+      "location": "Innovation Hub, Silicon Valley"
+    }
+  ]
+  
